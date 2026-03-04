@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻 Rohith Kumar Jogi</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Company+Sergeant+Major+%7C+NCC+18(A)+Battalion;Aspiring+Data+Scientist;Machine+Learning+Explorer;Python+Developer;AI+%7C+Data+Analytics+Enthusiast&center=true&width=520&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Ex+Company+Sergeant+Major+%7C+NCC+18(A)+Battalion;Aspiring+Data+Scientist;Machine+Learning+Explorer;Python+Developer;AI+%7C+Data+Analytics+Enthusiast&center=true&width=520&height=45">
 </p>
 
 <p align="center">
