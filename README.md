@@ -88,7 +88,7 @@ Tech enthusiast exploring Data Science, Artificial Intelligence, Machine Learnin
 
 # 🏅 Certifications
 
-• NPTEL - Privacy and Security in Online Social Media
+• NPTEL - Privacy and Security in Online Social Media  
 • Deloitte Australia – Data Analytics Job Simulation  
 • BCG – GenAI Job Simulation  
 • Build a Computer Vision App with Azure Cognitive Services  
