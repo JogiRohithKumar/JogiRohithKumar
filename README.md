@@ -1,270 +1,226 @@
-# Rohith Kumar Jogi
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4B0082,50:6A0DAD,100:8A2BE2&text=Rohith%20Kumar%20Jogi&fontColor=ffffff&fontSize=45&animation=fadeIn" />
-</p>
+# Hello, I'm Rohith Kumar Jogi 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=AI+Engineer+in+Progress;Data+Science+Undergraduate;Machine+Learning+%7C+Full+Stack+Development;Building+Production-Grade+AI+Systems" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=AI%20Engineer%20%7C%20Data%20Science&fontSize=60&fontAlignY=35&animation=fadeIn" />
 
-<p align="center">
-<img src="https://img.shields.io/badge/Pragati_Engineering_College-B.Tech_CSE(DS)-6A0DAD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Class_of_2027-Student-4B0082?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Kakinada-India-8A2BE2?style=for-the-badge"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7B68EE&width=435&lines=Building+AI+solutions;Data+Science+Undergraduate;Passionate+about+Cloud+Engineering;Seeking+new+opportunities" />
 
-<p align="center">
-<a href="https://www.linkedin.com/in/rohith-kumar-jogi-747a782b8"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-<a href="mailto:rohithkumarjogi@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail"/></a>
-<a href="https://github.com/JogiRohithKumar"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/></a>
-</p>
+<br>
 
----
+<img src="https://img.shields.io/badge/Pragati_Engineering_College-2027-7B68EE?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Location-Kakinada-4B0082?style=for-the-badge&logo=google-maps" />
 
-# About
+<br>
 
-Data Science undergraduate focused on AI Engineering, Machine Learning, Data Engineering, and Full Stack Product Development.
+<a href="https://www.linkedin.com/in/rohith-kumar-jogi-747a782b8"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+<a href="mailto:rohithkumarjogi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" /></a>
+<a href="https://github.com/JogiRohithKumar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></a>
 
-I build practical systems that combine data, software engineering, and AI to solve real-world problems. My interests span intelligent applications, MLOps, cloud-native architectures, analytics platforms, and scalable backend systems.
+<br>
 
-### Open To
+<img src="https://komarev.com/ghpvc/?username=JogiRohithKumar&label=Profile%20Views&color=7B68EE&style=flat-square" />
+<img src="https://img.shields.io/github/followers/JogiRohithKumar?style=flat-square&color=8A2BE2" />
+<img src="https://img.shields.io/github/stars/JogiRohithKumar?style=flat-square&color=4B0082" />
 
-- AI Engineering Internships
-- Data Science Internships
-- Machine Learning Internships
-- Software Engineering Internships
-- Open Source Collaboration
+</div>
 
 ---
 
-# Tech Stack
+## About
+A motivated Data Science undergraduate at Pragati Engineering College, currently transitioning into an AI Engineer role. I combine a strong foundation in machine learning and data analytics with hands-on experience in cloud technologies. My focus is on leveraging AI to build intelligent, scalable solutions and automating data workflows. I am actively seeking internships and entry-level positions where I can contribute to innovative engineering projects.
 
-## Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,js,cpp,html,css" />
-</p>
-
-## Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
-</p>
-
-## Backend & Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql" />
-</p>
-
-## Cloud DevOps & Tooling
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github,vscode" />
-</p>
+*   **Open To:** Full-time roles and internships in AI/ML, Data Science, and Cloud Engineering.
 
 ---
 
-# AI / ML Expertise
+## Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,java,tensorflow,scikitlearn,pandas" />
+<br>
+<img src="https://skillicons.dev/icons?i=aws,azure,googlecloud,docker,mysql" />
+<br>
+<img src="https://skillicons.dev/icons?i=git,vscode,postman,jupyter" />
+
+</div>
+
+---
+
+## AI / ML Expertise
 
 | Domain | Proficiency | Details |
-|----------|----------|----------|
-| Machine Learning | Advanced | Classification, Regression, Clustering |
-| Data Science | Advanced | EDA, Feature Engineering, Analytics |
-| Deep Learning | Intermediate | Neural Networks, TensorFlow |
-| NLP | Intermediate | Text Processing & LLM Workflows |
-| Data Engineering | Intermediate | ETL Pipelines & Cloud Data Workflows |
-| MLOps | Learning | Deployment & Production Systems |
+| :--- | :--- | :--- |
+| **Machine Learning** | Advanced | Scikit-learn, Model Optimization |
+| **Deep Learning** | Proficient | TensorFlow, Neural Networks |
+| **Data Engineering** | Advanced | AWS ETL Pipelines, Data Workflows |
+| **AI/Cloud Services** | Proficient | Azure ML, Cognitive Services |
 
 ---
 
-# Featured Projects
+## Featured Projects
 
 <details>
-<summary><b>Customer Segmentation Engine</b></summary>
+<summary><b>Customer-Segmentation-Engine</b></summary>
 
-Production-focused customer intelligence platform using machine learning clustering techniques.
+*   **Description:** Advanced customer grouping using unsupervised learning algorithms.
 
-| Metric | Details |
-|---------|---------|
-| Stack | Python, Scikit-Learn, Pandas |
-| Scale | Multi-segment customer analysis |
-| Performance | Automated segmentation |
-| Security | Data validation |
-| Impact | Business intelligence insights |
-| Repository | https://github.com/JogiRohithKumar/Customer-Segmentation-Engine |
+| Stack | Scale | Performance | Security | Impact | Repository |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Python, Pandas | High | Efficient | N/A | Market Analysis | [Link](https://github.com/JogiRohithKumar/Customer-Segmentation-Engine) |
 
 </details>
 
 <details>
 <summary><b>FactForge</b></summary>
 
-AI-powered fact verification and information analysis platform.
+*   **Description:** Data-driven insights and information synthesis platform.
 
-| Metric | Details |
-|---------|---------|
-| Stack | Python, AI APIs |
-| Scale | Automated verification workflows |
-| Performance | Real-time analysis |
-| Security | Structured validation |
-| Impact | Information credibility assessment |
-| Repository | https://github.com/JogiRohithKumar/FactForge |
+| Stack | Scale | Performance | Security | Impact | Repository |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Python | Medium | Optimized | N/A | Insight Generation | [Link](https://github.com/JogiRohithKumar/FactForge) |
 
 </details>
 
 <details>
 <summary><b>AeroDash</b></summary>
 
-Aviation analytics dashboard focused on visualization and operational insights.
+*   **Description:** Analytical dashboarding solution for data visualization and tracking.
 
-| Metric | Details |
-|---------|---------|
-| Stack | Python, Visualization Libraries |
-| Scale | Analytical dashboards |
-| Performance | Interactive reporting |
-| Security | Data integrity controls |
-| Impact | Operational visibility |
-| Repository | https://github.com/JogiRohithKumar/AeroDash |
+| Stack | Scale | Performance | Security | Impact | Repository |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Python, Dash | Scalable | High | N/A | Process Automation | [Link](https://github.com/JogiRohithKumar/AeroDash) |
 
 </details>
 
 ---
 
-# Experience
+## Experience
 
-## AWS Data Engineering Virtual Intern
-**Oct 2025 – Dec 2025**
+### AWS | Data Engineering Virtual Intern
+*Oct 2025 - Dec 2025*
+*   Developed ETL pipelines and data workflows using AWS (S3, EC2).
+*   Focused on data ingestion, transformation, and scalable cloud storage solutions.
+*   **Skills:** `AWS`, `ETL`, `Cloud Architecture`
 
-- Built ETL workflows using AWS services
-- Worked with S3 and EC2
-- Developed cloud data processing pipelines
+### Microsoft | AI Azure Virtual Intern
+*Jun 2025 - Jul 2025*
+*   Deployed machine learning models using Azure Machine Learning and Cognitive Services.
+*   Built cloud-based workflows for scalable AI applications.
+*   **Skills:** `Azure`, `Machine Learning`, `AI Services`
 
-**Skills:** AWS, Data Engineering, ETL
-
-## Microsoft Azure AI Virtual Intern
-**Jun 2025 – Jul 2025**
-
-- Built AI workflows using Azure AI services
-- Worked with Azure Machine Learning
-- Developed cloud AI deployment pipelines
-
-**Skills:** Azure, AI, ML
-
-## Google AI/ML Virtual Intern
-**Jan 2025 – Mar 2025**
-
-- Built ML models using TensorFlow and Scikit-Learn
-- Performed preprocessing and model optimization
-- Evaluated predictive systems
-
-**Skills:** Python, TensorFlow, Machine Learning
+### Google | AI/ML Virtual Intern
+*Jan 2025 - Mar 2025*
+*   Built and evaluated ML models using Python, TensorFlow, and Scikit-learn.
+*   Performed data preprocessing and analysis for model optimization.
+*   **Skills:** `Python`, `TensorFlow`, `Data Analysis`
 
 ---
 
-# Achievements
+## Achievements
+
+<div align="center">
 
 | Recognition | Details |
-|------------|------------|
-| IBM Professional Data Analyst | Industry Certification |
-| AWS Academy Graduate | Machine Learning & Data Engineering |
-| Stanford CS101 | Computer Science Foundation |
-| NPTEL | Privacy & Security in Online Social Media |
-| ServiceNow | Micro Certification |
+| :--- | :--- |
+| **1M1B Foundation** | Sustainability Analytics Dashboards |
+| **EduSkills** | Ethical Hacking Certification |
+| **Alteryx** | Data Analytics Process Automation |
+
+</div>
 
 ---
 
-# Certifications
+## Certifications
 
-### AWS
-![AWS](https://img.shields.io/badge/AWS-Machine_Learning_&_Data_Engineering-FF9900?style=for-the-badge&logo=amazonaws)
-
-### IBM
-![IBM](https://img.shields.io/badge/IBM-Professional_Data_Analyst-052FAD?style=for-the-badge&logo=ibm)
-
-### NPTEL
-![NPTEL](https://img.shields.io/badge/NPTEL-Privacy_&_Security-success?style=for-the-badge)
-
-### ServiceNow
-![ServiceNow](https://img.shields.io/badge/ServiceNow-Certified-success?style=for-the-badge)
+*   **IBM:** Certified Professional Data Analyst
+*   **IIIT Hyderabad (NPTEL):** Privacy and Security in Online Social Media
+*   **AWS Academy:** Graduate — Machine Learning & Data Engineering
+*   **Stanford Online:** Computer Science 101
+*   **ServiceNow:** Micro-Certification — Welcome to ServiceNow
+*   **Job Simulations:** Accenture, Deloitte, BCG (GenAI)
 
 ---
 
-# Coding Profiles
+## Coding Profiles
 
-<p align="center">
-<a href="https://leetcode.com/u/RohithKumarJogi/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode"/></a>
-<a href="https://www.geeksforgeeks.org/profile/rohithkukant"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks"/></a>
-<a href="https://www.hackerrank.com/profile/23A31A4491"><img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank"/></a>
-</p>
+<div align="center">
 
----
+<a href="https://leetcode.com/u/RohithKumarJogi/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode" /></a>
+<a href="https://www.geeksforgeeks.org/profile/rohithkukant"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks" /></a>
+<a href="https://www.hackerrank.com/profile/23A31A4491"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank" /></a>
 
-# GitHub Analytics
-
-![](https://github-readme-stats.vercel.app/api?username=JogiRohithKumar&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=JogiRohithKumar&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JogiRohithKumar&layout=compact&theme=tokyonight)
+</div>
 
 ---
 
-# GitHub Trophies
+## GitHub Analytics
 
-![](https://github-profile-trophy.vercel.app/?username=JogiRohithKumar&theme=algolia&no-frame=true)
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=JogiRohithKumar&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JogiRohithKumar&theme=tokyonight&hide_border=true" />
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JogiRohithKumar&layout=compact&theme=tokyonight&hide_border=true" />
 
-# Contribution Activity
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=JogiRohithKumar&theme=tokyo-night)
-
----
-
-# Contribution Snake
-
-```yaml
-Generate using:
-Platane/snk GitHub Action
-```
+</div>
 
 ---
 
-# Current Focus
+## GitHub Trophies
 
-```yaml
-Learning:
-  - AI Engineering
-  - Data Engineering
-  - MLOps
+<div align="center">
 
-Building:
-  - FactForge
-  - Customer Segmentation Engine
+<img src="https://github-profile-trophy.vercel.app/?username=JogiRohithKumar&theme=tokyonight&no-bg=true" />
 
-Exploring:
-  - Multi-Agent Systems
-  - LLM Applications
+</div>
 
-OpenTo:
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JogiRohithKumar&theme=tokyonight&area=true&hide_border=true" />
+
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/JogiRohithKumar/JogiRohithKumar/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
+## Current Focus
+
+
+learning:
+  - Deep Learning Architectures
+  - Advanced Cloud Engineering
+building:
+  - AI-powered Data Analytics Pipelines
+exploring:
+  - Generative AI
+  - Big Data Technologies
+open_to:
   - Internships
-  - Open Source
-  - AI Projects
-```
+  - Graduate Roles
+
+
 
 ---
 
-# Connect
+## Connect
 
-- Email: rohithkumarjogi@gmail.com
-- LinkedIn: https://www.linkedin.com/in/rohith-kumar-jogi-747a782b8
-- GitHub: https://github.com/JogiRohithKumar
+[Gmail](https://www.google.com/search?q=mailto%3Arohithkumarjogi%40gmail.com) | [LinkedIn](https://www.linkedin.com/in/rohith-kumar-jogi-747a782b8) | [GitHub](https://www.google.com/url?sa=E&source=gmail&q=https://github.com/JogiRohithKumar)
 
 ---
 
-> Building intelligent systems that create measurable impact through software, data, and AI.
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:4B0082,50:6A0DAD,100:8A2BE2"/>
-</p>
+> "Data is the new oil, but AI is the engine that drives the future of innovation."
