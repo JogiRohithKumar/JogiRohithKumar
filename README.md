@@ -82,6 +82,22 @@ I build practical systems that combine data, software engineering, and AI to sol
 # Featured Projects
 
 <details>
+<summary><b>Multi-Agent Research Assistant</b></summary>
+
+An advanced AI-driven research assistant leveraging autonomous multi-agent orchestration to conduct deep-dive information gathering and synthesis.
+
+| Metric | Details |
+|---------|---------|
+| Stack | Python, LangChain, OpenAI API |
+| Scale | Agent-based task decomposition |
+| Performance | Parallelized research execution |
+| Security | Secure environment isolation |
+| Impact | Accelerated research productivity |
+| Repository | https://github.com/JogiRohithKumar/multi-agent-research-assistant |
+
+</details>
+
+<details>
 <summary><b>Customer Segmentation Engine</b></summary>
 
 Production-focused customer intelligence platform using machine learning clustering techniques.
@@ -227,44 +243,3 @@ Aviation analytics dashboard focused on visualization and operational insights.
 ```yaml
 Generate using:
 Platane/snk GitHub Action
-```
-
----
-
-# Current Focus
-
-
-Learning:
-  - AI Engineering
-  - Data Engineering
-  - MLOps
-
-Building:
-  - FactForge
-  - Customer Segmentation Engine
-
-Exploring:
-  - Multi-Agent Systems
-  - LLM Applications
-
-OpenTo:
-  - Internships
-  - Open Source
-  - AI Projects
-
-
----
-
-# Connect
-
-- Email: rohithkumarjogi@gmail.com
-- LinkedIn: https://www.linkedin.com/in/rohith-kumar-jogi-747a782b8
-- GitHub: https://github.com/JogiRohithKumar
-
----
-
-> Building intelligent systems that create measurable impact through software, data, and AI.
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:4B0082,50:6A0DAD,100:8A2BE2"/>
-</p>
