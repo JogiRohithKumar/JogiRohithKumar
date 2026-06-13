@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hello, I'm Rohith Kumar Jogi 👋
+# Hello, I'm Rohith Kumar Jogi 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=AI%20Engineer%20%7C%20Data%20Science&fontSize=60&fontAlignY=35&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=header&text=Architecting%20Intelligence&fontSize=60&fontAlignY=35&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7B68EE&width=435&lines=Building+AI+solutions;Data+Science+Undergraduate;Passionate+about+Cloud+Engineering;Seeking+new+opportunities" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7B68EE&width=500&lines=Decoding+the+Future+of+Data;Synthesizing+Neural+Architectures;Engineering+Intelligent+Ecosystems;Turning+Complexity+into+Clarity" />
 
 <br>
 
@@ -19,7 +19,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=JogiRohithKumar&label=Profile%20Views&color=7B68EE&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=JogiRohithKumar&label=Neural%20Network%20Accesses&color=7B68EE&style=flat-square" />
 <img src="https://img.shields.io/github/followers/JogiRohithKumar?style=flat-square&color=8A2BE2" />
 <img src="https://img.shields.io/github/stars/JogiRohithKumar?style=flat-square&color=4B0082" />
 
@@ -27,123 +27,109 @@
 
 ---
 
-## About
-A motivated Data Science undergraduate at Pragati Engineering College, currently transitioning into an AI Engineer role. I combine a strong foundation in machine learning and data analytics with hands-on experience in cloud technologies. My focus is on leveraging AI to build intelligent, scalable solutions and automating data workflows. I am actively seeking internships and entry-level positions where I can contribute to innovative engineering projects.
+## The Vision
+I am a Data Science undergraduate navigating the frontier of Artificial Intelligence. I don't just write code; I construct logic engines that transform raw entropy into actionable insight. My work is rooted in the belief that the next generation of software must be autonomous, self-optimizing, and deeply integrated with cloud infrastructure.
 
-*   **Open To:** Full-time roles and internships in AI/ML, Data Science, and Cloud Engineering.
+*   **Open To:** Collaborating on high-impact research, pioneering AI-driven product engineering, and solving problems that haven't been defined yet.
 
 ---
 
-## Tech Stack
+## Technological Arsenal
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,java,tensorflow,scikitlearn,pandas" />
+<img src="https://skillicons.dev/icons?i=py,java,tensorflow,scikitlearn,pandas,go,rust" />
 <br>
-<img src="https://skillicons.dev/icons?i=aws,azure,googlecloud,docker,mysql" />
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,postgresql,redis" />
 <br>
-<img src="https://skillicons.dev/icons?i=git,vscode,postman,jupyter" />
+<img src="https://skillicons.dev/icons?i=git,vscode,postman,jupyter,linux" />
 
 </div>
 
 ---
 
-## AI / ML Expertise
+## Cognitive Domains
 
-| Domain | Proficiency | Details |
+| Domain | Proficiency | Technical Focus |
 | :--- | :--- | :--- |
-| **Machine Learning** | Advanced | Scikit-learn, Model Optimization |
-| **Deep Learning** | Proficient | TensorFlow, Neural Networks |
-| **Data Engineering** | Advanced | AWS ETL Pipelines, Data Workflows |
-| **AI/Cloud Services** | Proficient | Azure ML, Cognitive Services |
+| **Generative Intelligence** | Research | LLM Fine-tuning & Latent Space Mapping |
+| **Neural Architecture** | Expert | TensorFlow, PyTorch, Backpropagation |
+| **Data Orchestration** | Advanced | Distributed ETL & Scalable Pipeline Design |
+| **Cloud Engineering** | Advanced | Serverless Compute & Model Deployment |
 
 ---
 
-## Featured Projects
+## Strategic Initiatives
 
 <details>
-<summary><b>Customer-Segmentation-Engine</b></summary>
+<summary><b>Customer-Segmentation-Engine: Unsupervised Behavioral Modeling</b></summary>
 
-*   **Description:** Advanced customer grouping using unsupervised learning algorithms.
+*   **Description:** A high-dimensional clustering engine designed to interpret complex market behaviors.
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Python, Pandas | High | Efficient | N/A | Market Analysis | [Link](https://github.com/JogiRohithKumar/Customer-Segmentation-Engine) |
+| Python, Pandas | High | Efficient | N/A | Market Strategy | [Link](https://github.com/JogiRohithKumar/Customer-Segmentation-Engine) |
 
 </details>
 
 <details>
-<summary><b>FactForge</b></summary>
+<summary><b>FactForge: Information Synthesis Infrastructure</b></summary>
 
-*   **Description:** Data-driven insights and information synthesis platform.
+*   **Description:** A robust pipeline for automated knowledge extraction and data validation.
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Python | Medium | Optimized | N/A | Insight Generation | [Link](https://github.com/JogiRohithKumar/FactForge) |
+| Python | Medium | Optimized | N/A | Decision Support | [Link](https://github.com/JogiRohithKumar/FactForge) |
 
 </details>
 
 <details>
-<summary><b>AeroDash</b></summary>
+<summary><b>AeroDash: Real-Time Operational Telemetry</b></summary>
 
-*   **Description:** Analytical dashboarding solution for data visualization and tracking.
+*   **Description:** A high-frequency dashboarding framework for visualizing iterative processes.
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Python, Dash | Scalable | High | N/A | Process Automation | [Link](https://github.com/JogiRohithKumar/AeroDash) |
+| Python, Dash | Scalable | High | N/A | Process Flow | [Link](https://github.com/JogiRohithKumar/AeroDash) |
 
 </details>
 
 ---
 
-## Experience
+## Engineering Odyssey
 
-### AWS | Data Engineering Virtual Intern
-*Oct 2025 - Dec 2025*
-*   Developed ETL pipelines and data workflows using AWS (S3, EC2).
-*   Focused on data ingestion, transformation, and scalable cloud storage solutions.
-*   **Skills:** `AWS`, `ETL`, `Cloud Architecture`
+### AWS | Data Engineering Intern
+*Oct 2025 – Dec 2025*
+*   Architected resilient ETL pipelines using AWS S3 and EC2.
+*   Optimized data transformation workflows to ensure seamless ingestion at scale.
 
-### Microsoft | AI Azure Virtual Intern
-*Jun 2025 - Jul 2025*
-*   Deployed machine learning models using Azure Machine Learning and Cognitive Services.
-*   Built cloud-based workflows for scalable AI applications.
-*   **Skills:** `Azure`, `Machine Learning`, `AI Services`
+### Microsoft | AI Azure Intern
+*Jun 2025 – Jul 2025*
+*   Executed deployment strategies for ML models via Azure Cognitive Services.
+*   Engineered cloud-native workflows for production-grade AI.
 
-### Google | AI/ML Virtual Intern
-*Jan 2025 - Mar 2025*
-*   Built and evaluated ML models using Python, TensorFlow, and Scikit-learn.
-*   Performed data preprocessing and analysis for model optimization.
-*   **Skills:** `Python`, `TensorFlow`, `Data Analysis`
+### Google | AI/ML Intern
+*Jan 2025 – Mar 2025*
+*   Refined algorithmic performance using TensorFlow and Scikit-learn.
+*   Conducted rigorous data preprocessing for optimized model convergence.
 
 ---
 
-## Achievements
+## Intellectual Milestones
 
 <div align="center">
 
-| Recognition | Details |
+| Milestone | Certification |
 | :--- | :--- |
-| **1M1B Foundation** | Sustainability Analytics Dashboards |
-| **EduSkills** | Ethical Hacking Certification |
-| **Alteryx** | Data Analytics Process Automation |
+| **Data Analytics** | IBM Certified Professional |
+| **Social Media Security** | IIIT Hyderabad (NPTEL) Elite |
+| **Cloud/ML Mastery** | AWS Academy Graduate |
 
 </div>
 
 ---
 
-## Certifications
-
-*   **IBM:** Certified Professional Data Analyst
-*   **IIIT Hyderabad (NPTEL):** Privacy and Security in Online Social Media
-*   **AWS Academy:** Graduate — Machine Learning & Data Engineering
-*   **Stanford Online:** Computer Science 101
-*   **ServiceNow:** Micro-Certification — Welcome to ServiceNow
-*   **Job Simulations:** Accenture, Deloitte, BCG (GenAI)
-
----
-
-## Coding Profiles
+## Competitive Intelligence
 
 <div align="center">
 
@@ -155,7 +141,7 @@ A motivated Data Science undergraduate at Pragati Engineering College, currently
 
 ---
 
-## GitHub Analytics
+## System Metrics
 
 <div align="center">
 
@@ -168,17 +154,7 @@ A motivated Data Science undergraduate at Pragati Engineering College, currently
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=JogiRohithKumar&theme=tokyonight&no-bg=true" />
-
-</div>
-
----
-
-## Contribution Activity
+## Contribution Graph
 
 <div align="center">
 
@@ -188,39 +164,19 @@ A motivated Data Science undergraduate at Pragati Engineering College, currently
 
 ---
 
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/JogiRohithKumar/JogiRohithKumar/output/github-contribution-grid-snake.svg" />
-
-</div>
-
----
-
-## Current Focus
+## Current Research Focus
 
 
-learning:
-  - Deep Learning Architectures
-  - Advanced Cloud Engineering
-building:
-  - AI-powered Data Analytics Pipelines
-exploring:
-  - Generative AI
-  - Big Data Technologies
+focus:
+  - Deep Learning: Transformer Optimization
+  - Cloud: Distributed System Reliability
+  - Data: Predictive Modeling for Autonomous Systems
 open_to:
-  - Internships
-  - Graduate Roles
+  - Visionary Partnerships
+  - Innovation-Driven Internships
 
 
 
 ---
 
-## Connect
-
-[Gmail](https://www.google.com/search?q=mailto%3Arohithkumarjogi%40gmail.com) | [LinkedIn](https://www.linkedin.com/in/rohith-kumar-jogi-747a782b8) | [GitHub](https://www.google.com/url?sa=E&source=gmail&q=https://github.com/JogiRohithKumar)
-
----
-
-> "Data is the new oil, but AI is the engine that drives the future of innovation."
+> "The code we write today is the architecture of tomorrow's reality."
