@@ -105,19 +105,6 @@ Misinformation-detection microservice achieving **99.73% classification accuracy
 
 ---
 
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JogiRohithKumar&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JogiRohithKumar&hide_border=true" alt="GitHub Streak" width="49%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JogiRohithKumar&layout=compact&hide_border=true" alt="Top Languages" width="40%"/>
-</p>
-
----
-
 ## Connect With Me
 
 <p align="center">
