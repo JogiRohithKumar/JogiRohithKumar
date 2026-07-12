@@ -105,35 +105,6 @@ Misinformation-detection microservice achieving **99.73% classification accuracy
 
 ---
 
-## GitHub Statistics
-
----
-
-# GitHub Analytics
-
-![](https://github-readme-stats.vercel.app/api?username=JogiRohithKumar&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=JogiRohithKumar&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JogiRohithKumar&layout=compact&theme=tokyonight)
-
----
-
-# GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=JogiRohithKumar&theme=algolia&no-frame=true)
-
----
-
-# Contribution Activity
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=JogiRohithKumar&theme=tokyo-night)
-
----
-
-
----
-
 ## Connect With Me
 
 <p align="center">
