@@ -1,5 +1,5 @@
 <h1 align="center">Rohith Kumar Jogi</h1>
-<h3 align="center">AI/ML Engineer • Data Science Undergraduate • Building Intelligent Systems that Ship</h3>
+<h3 align="center"> Software Developmemt Engineer • Data Science Undergraduate • Building Intelligent Systems that Ship</h3>
 
 <p align="center">
   <a href="mailto:rohithkumarjogi@gmail.com"><img src="https://img.shields.io/badge/Email-rohithkumarjogi%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
