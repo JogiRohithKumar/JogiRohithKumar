@@ -57,18 +57,18 @@ I build end-to-end AI/ML and data systems — from model design to deployment �
 
 ## Featured Projects
 
-### [Research Intelligence Assistant](https://github.com/REPLACE-WITH-REPO-LINK) · [Live Demo](https://REPLACE-WITH-DEMO-LINK)
+### [Research Intelligence Assistant](https://github.com/JogiRohithKumar/Research-Intelligence-Assistant) · [Live Demo](https://multi-agent-research-assistant-hmcd5iedk.vercel.app/)
 6-agent RAG platform (LangGraph, FastAPI, React, Gemini 2.5 Flash, ChromaDB) that automates literature synthesis and reduces manual research drafting time by **90%**, producing citation-backed, evidence-based findings.
 - Designed a 6-agent architecture with a retrieval-augmented pipeline that grounds LLM outputs in academic literature
 - Generates structured research reports, policy-style summaries, citation-backed findings, and research gap analysis
 
-### [CohortIQ Platform](https://github.com/REPLACE-WITH-REPO-LINK) · [Live Demo](https://REPLACE-WITH-DEMO-LINK)
+### [CohortIQ Platform](https://github.com/JogiRohithKumar/CohortIQ-Platform---Customer-Segmentation-Engine) · [Live Demo](https://customer-segmentation-engine-lo7qvs67rqmxk3sir5e6ey.streamlit.app/)
 End-to-end customer intelligence engine (Python, Scikit-Learn, Streamlit) automating segmentation and anomaly detection across **10,000+ customer profiles**, with a conversational Data Copilot and AutoML-driven dashboards.
 - Built an autonomous unsupervised ML pipeline with RobustScaler preprocessing and automated Silhouette Score validation for dynamic cluster tuning
 - Embedded an Isolation Forest ensemble to flag high-risk churn threats
 - Architected a multi-tenant SaaS backend (FastAPI + PostgreSQL) with data isolation and stateless JWT authentication
 
-### [FactForge Pro](https://github.com/REPLACE-WITH-REPO-LINK) · [Live Demo](https://REPLACE-WITH-DEMO-LINK)
+### [FactForge Pro](https://github.com/JogiRohithKumar/FactForge) · [Live Demo](https://try-fake-news-detector.streamlit.app/)
 Misinformation-detection microservice achieving **99.73% classification accuracy** across 44,898 articles, with a dual-mode failover architecture ensuring **99%+ uptime**.
 - Built an AI-powered platform for real-time content analysis using NLP, automated ingestion, and explainable ML workflows
 - Engineered a decoupled microservice architecture with REST APIs and automated web content ingestion via Newspaper3k and BeautifulSoup
